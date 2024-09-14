@@ -21,11 +21,11 @@ This tool helps bug hunters easily identify URLs with these parameters, making i
     
     🔍 Searching for parameters in the file...
   
-    👍 Found parameter: https://crossfeed.cyber.dhs.gov/saved-searches/?page=
-    👍 Found parameter: https://esta.cbp.dhs.gov/?lang=da
-    👍 Found parameter: https://tripwire.dhs.gov/?q=user/login/
-    👍 Found parameter: https://studyinthestates.dhs.gov/?p=8370
-    👍 Found parameter: https://studyinthestates.dhs.gov/?q=conference+circuit
+    👍 Found parameter: https://example.com/saved-searches/?page=
+    👍 Found parameter: https://example.com/?lang=da
+    👍 Found parameter: https://example.com/?q=user/login/
+    👍 Found parameter: https://example.com/?p=8370
+    👍 Found parameter: https://example.com/?q=conference+circuit
     
     Scanning lines: 100%|███████████████████████████████▉ | 500000/500000 [00:12<00:00, 40000.00line/s]
     
