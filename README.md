@@ -45,3 +45,4 @@ You can modify the parameters list inside the script to add or remove query para
 
 # Contributions:
 Feel free to submit issues or pull requests if you would like to improve the tool or report any bugs.
+if you want me to add more paramater let me know.
