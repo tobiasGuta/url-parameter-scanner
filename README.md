@@ -1,6 +1,15 @@
 # url-parameter-scanner
 A lightweight Python tool that scans a list of URLs and detects specific query parameters, designed for web scraping and cybersecurity purposes. This script searches through a provided text file containing URLs and identifies occurrences of predefined parameters, displaying the full URL when a match is found.
 
+# Value for Bug Hunting:
+In cybersecurity, URL parameters can often reveal vulnerabilities or interesting attack vectors, especially in scenarios like:
+
+Insecure Direct Object References (IDOR): Parameters like id, uid, or pid could expose sensitive data or allow unauthorized access to certain resources.
+SQL Injection Points: Parameters like search, q, s, page, and similar can be exploited for SQL injection vulnerabilities.
+Cross-Site Scripting (XSS): Parameters such as search, q, and view are often passed directly into web pages, which makes them possible vectors for XSS attacks.
+Parameter Tampering: Changing or adding certain parameters can allow a bug hunter to bypass security controls, access unauthorized resources, or modify application behavior.
+This tool helps bug hunters easily identify URLs with these parameters, making it easier to assess the security posture of a web application. By filtering duplicate URLs with the same parameter, it also allows for focused testing.
+
 # Features:
     Efficient Scanning: Uses tqdm for real-time progress display while scanning through thousands of URLs.
     Duplicate Filtering: Avoids displaying the same URL with identical parameters multiple times, but allows different parameters for the same base URL.
