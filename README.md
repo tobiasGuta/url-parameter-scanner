@@ -26,7 +26,7 @@ A lightweight Python tool that scans a list of URLs and detects specific query p
 
 Clone the repository:
 
-    git clone https://github.com/your-username/url-parameter-scanner.git
+    git clone https://github.com/tobiasGuta/url-parameter-scanner.git
     cd url-parameter-scanner
     
 Install the required Python libraries:
