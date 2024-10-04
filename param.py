@@ -48,7 +48,7 @@ parameters = [
     "/?featuredsearch=", "/?price=", "/?maxbuilt=", "/?lsid=", "/?listingtypes=", "/?garages=", 
     "/?maxprice=", "/?minprice=", "/?keywordsany=", "/?yearbuilt=", "/?minbuilt=", "/?subdivision=", 
     "/?lotsizeval=", "/?listingstatusid=", "/?mls=", "/firms/?text=", "/servlet/com.jsbsoft.jtf.core.SG?OBJET=", 
-    "/plan_du_site.php?lang=", "/index.php?Itemid=", "/?view=", "/?t=", "/?selat=", "/?selong=", "/?nwlat=", "/?geo="
+    "/plan_du_site.php?lang=", "/index.php?Itemid=", "/?view=", "/?t=", "/?selat=", "/?selong=", "/?nwlat=", "/?geo=", "interview?i=", "?i="
 ]
 
 # Function to search for specific parameters in a text file and show the full matching URL
