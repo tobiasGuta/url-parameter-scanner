@@ -3,7 +3,7 @@ import re
 from tqdm import tqdm
 import time
 
-# List of URLs and patterns to search for (excluding numbers)
+# List of URLs and patterns to search for (excluding numbers) (change it if needed)
 parameters = [
     "/2wayvideochat/index.php?r=", "/elms/subscribe.php?course_id=", "/gen_confirm.php?errmsg=", 
     "/hexjector.php?site=", "/index.php?option=com_easygb&Itemid=", "/index.php?view=help&amp;faq=1&amp;ref=",
