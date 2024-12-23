@@ -10,6 +10,9 @@ parameters = [
     "?filter:", "?category:", "?view:", "?limit:", "?offset:",
     "?user:", "?theme:", "?token:", "?ref:", "?status:",
     "#section:", "#top:", "#comments:", "#footer:", "#tab:",
+    "?ref:", "?tracking_id:", "?aff_id:", "?utm_source:", "?utm_medium:",
+    "?utm_campaign:", "?discount:", "?token:", "?language:",
+
 
 ]
 
