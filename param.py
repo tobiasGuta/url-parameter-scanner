@@ -5,7 +5,7 @@ import time
 
 # List of URLs and patterns to search for (excluding numbers) (change it if needed)
 parameters = [
-    "?message=", 
+    "?message=", "search?term=", 
 ]
 
 # Function to search for specific parameters in a text file and show the full matching URL
