@@ -12,6 +12,9 @@ parameters = [
     "#section:", "#top:", "#comments:", "#footer:", "#tab:",
     "?ref:", "?tracking_id:", "?aff_id:", "?utm_source:", "?utm_medium:",
     "?utm_campaign:", "?discount:", "?token:", "?language:",
+    "/id:", "/username:", "/post:", "/category:", "/product:",
+    "/slug:", "/order:", "/group:", "/course:"
+
 
 
 ]
